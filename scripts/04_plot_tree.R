@@ -65,6 +65,7 @@ tree_grouped <- groupOTU(tree, phylum_groups, group_name = "Phylum")
 # 4. Curated phylum color palette
 # ------------------------------------------------------------------
 phylum_colors <- c(
+  # --- Major bacterial phyla ---
   "Pseudomonadota"          = "#1f77b4",  # blue
   "Bacillota"               = "#ff7f0e",  # orange
   "Actinomycetota"          = "#2ca02c",  # green
@@ -78,9 +79,32 @@ phylum_colors <- c(
   "Verrucomicrobiota"       = "#aec7e8",  # light blue
   "Fusobacteriota"          = "#ffbb78",  # light orange
   "Chlamydiota"             = "#98df8a",  # light green
-  "Euryarchaeota"           = "#ff9896",  # light red
+  # --- Additional bacterial phyla (V2) ---
+  "Acidobacteriota"         = "#843C39",  # dark red-brown
+  "Myxococcota"             = "#E7969C",  # light salmon
+  "Bdellovibrionota"        = "#D6616B",  # salmon
+  "Campylobacterota"        = "#6B6ECF",  # periwinkle
+  "Desulfobacterota"        = "#AD494A",  # brick red
+  "Nitrospirota"            = "#B5CF6B",  # lime
+  "Fibrobacterota"          = "#8CA252",  # sage
+  "Aquificota"              = "#DE9ED6",  # lavender
+  "Thermotogota"            = "#E7BA52",  # gold
+  "Armatimonadota"          = "#CEDB9C",  # pale olive
+  "Gemmatimonadota"         = "#393B79",  # navy
+  "Balneolota"              = "#5254A3",  # medium blue
+  "Rhodothermota"           = "#637939",  # dark olive
+  # --- Archaeal phyla ---
   "Thermoproteota"          = "#c5b0d5",  # light purple
-  "Asgardarchaeota"         = "#c49c94"   # light brown
+  "Asgardarchaeota"         = "#c49c94",  # light brown
+  "Halobacteriota"          = "#A55194",  # magenta
+  "Methanobacteriota"       = "#CE6DBD",  # light magenta
+  "Methanobacteriota_A"     = "#D4A6C8",  # pale magenta
+  "Methanobacteriota_B"     = "#B07AA1",  # dusty rose
+  "Thermoplasmatota"        = "#ff9896",  # light red
+  "Nanoarchaeota"           = "#7B4173",  # dark purple
+  "Micrarchaeota"           = "#A173D1",  # medium purple
+  "Iainarchaeota"           = "#8C6D31",  # khaki
+  "Euryarchaeota"           = "#BD9E39"   # dark gold
 )
 # Add a fallback for any phyla not in the palette
 all_phyla <- levels(attr(tree_grouped, "group"))
