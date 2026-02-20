@@ -52,6 +52,10 @@ elif [ "$MODE" = "v2" ]; then
     python3 scripts/03v2_build_metadata_gtdb.py
     echo ""
 
+    echo "--- Step 5: Targeted protein searches (EF-Tu, SecY, MuA) ---"
+    python3 scripts/05_targeted_protein_search.py
+    echo ""
+
 elif [ "$MODE" = "plot" ]; then
     echo "--- Skipping data generation, re-running visualization only ---"
     if [ ! -f data/metadata.csv ] || [ ! -f data/taxonomy.csv ]; then
