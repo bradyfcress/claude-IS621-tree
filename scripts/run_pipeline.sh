@@ -6,6 +6,7 @@
 #   bash scripts/run_pipeline.sh mock    # Use mock data (fast, for testing)
 #   bash scripts/run_pipeline.sh real    # Use real NCBI BLAST data (V1: BLAST-first)
 #   bash scripts/run_pipeline.sh v2      # Use GTDB taxonomy backbone (V2: tree-first)
+#   bash scripts/run_pipeline.sh v3      # Complete genomes + local search (V3)
 #   bash scripts/run_pipeline.sh plot    # Only re-run visualization
 # ============================================================================
 set -euo pipefail
@@ -56,6 +57,19 @@ elif [ "$MODE" = "v2" ]; then
     python3 scripts/05_targeted_protein_search.py
     echo ""
 
+elif [ "$MODE" = "v3" ]; then
+    echo "--- Step 1: Fetching E. coli reference sequences ---"
+    python3 scripts/01_fetch_sequences.py
+    echo ""
+
+    echo "--- Step 3v2: Building GTDB-first tree metadata (complete genomes) ---"
+    python3 scripts/03v2_build_metadata_gtdb.py --complete-only
+    echo ""
+
+    echo "--- Step 6: Local genome search (download + Prodigal + BLAST + HMM) ---"
+    python3 scripts/06_local_genome_search.py
+    echo ""
+
 elif [ "$MODE" = "plot" ]; then
     echo "--- Skipping data generation, re-running visualization only ---"
     if [ ! -f data/metadata.csv ] || [ ! -f data/taxonomy.csv ]; then
@@ -65,7 +79,7 @@ elif [ "$MODE" = "plot" ]; then
     fi
 
 else
-    echo "ERROR: Unknown mode '$MODE'. Use 'mock', 'real', 'v2', or 'plot'."
+    echo "ERROR: Unknown mode '$MODE'. Use 'mock', 'real', 'v2', 'v3', or 'plot'."
     exit 1
 fi
 

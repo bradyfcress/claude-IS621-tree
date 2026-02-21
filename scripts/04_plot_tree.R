@@ -142,13 +142,22 @@ p <- ggtree(tree_grouped,
 # ------------------------------------------------------------------
 # 6. Prepare heatmap data
 # ------------------------------------------------------------------
-heatmap_df <- metadata[, c("Tip_ID", "EF_Tu_Identity", "SecY_Identity",
-                           "MuA_Identity", "IS621_Identity")]
+heatmap_cols <- c("EF_Tu_Identity", "SecY_Identity", "MuA_Identity",
+                  "IS621_Identity")
+# Add IS911 if present in data
+if ("IS911_Identity" %in% colnames(metadata)) {
+  heatmap_cols <- c(heatmap_cols, "IS911_Identity")
+}
+heatmap_df <- metadata[, c("Tip_ID", heatmap_cols)]
 rownames(heatmap_df) <- heatmap_df$Tip_ID
 heatmap_df$Tip_ID <- NULL
 
 # Rename columns for display
-colnames(heatmap_df) <- c("EF-Tu", "SecY", "MuA", "IS621")
+display_names <- c("EF-Tu", "SecY", "MuA", "IS621")
+if ("IS911_Identity" %in% heatmap_cols) {
+  display_names <- c(display_names, "IS911")
+}
+colnames(heatmap_df) <- display_names
 
 # Ensure only tree tips are in the heatmap
 heatmap_df <- heatmap_df[rownames(heatmap_df) %in% tips_in_tree, , drop = FALSE]
@@ -160,7 +169,7 @@ p2 <- gheatmap(
   p,
   heatmap_df,
   offset = 1,
-  width = 0.5,
+  width = 0.6,
   colnames_angle = 95,
   colnames_offset_y = 0.4,
   colnames_position = "top",

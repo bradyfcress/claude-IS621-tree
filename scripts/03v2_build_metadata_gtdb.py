@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build tree metadata using GTDB taxonomy as the backbone (V2).
+"""Build tree metadata using GTDB taxonomy as the backbone (V2/V3).
 
 The V1 approach (03_build_metadata.py) started from BLAST hits, producing a
 Pseudomonadota-biased tree with no Archaea. This V2 script flips the logic:
@@ -8,11 +8,16 @@ Pseudomonadota-biased tree with no Archaea. This V2 script flips the logic:
   2. Select ~180 balanced representatives across all prokaryotic phyla
   3. Map existing BLAST results onto those representatives (genus-level)
 
+V3 addition: --complete-only flag filters to Complete Genome / Chromosome
+assemblies, ensuring high-quality genomes with reliable gene content.
+
 Reads:  data/blast_cache/{protein}_hits.tsv (4 files, from V1)
+        data/gtdb_cache/*_metadata.tsv.gz   (V3: assembly quality info)
 Writes: data/taxonomy.csv   (tip taxonomy for R tree building)
         data/metadata.csv   (identity values for R heatmap rings)
 """
 
+import argparse
 import csv
 import gzip
 import math
@@ -35,7 +40,12 @@ CACHE_DIR = Path("data/blast_cache")
 OUTPUT_METADATA = Path("data/metadata.csv")
 OUTPUT_TAXONOMY = Path("data/taxonomy.csv")
 
-PROTEINS = ["IS621", "EF_Tu", "SecY", "MuA"]
+PROTEINS = ["IS621", "EF_Tu", "SecY", "MuA", "IS911"]
+
+GTDB_METADATA_URLS = {
+    "bacteria": "https://data.gtdb.ecogenomic.org/releases/latest/bac120_metadata.tsv.gz",
+    "archaea": "https://data.gtdb.ecogenomic.org/releases/latest/ar53_metadata.tsv.gz",
+}
 TARGET_TOTAL = 180
 
 # Tier thresholds: (min_families, max_reps)
@@ -120,6 +130,95 @@ def parse_gtdb_taxonomy(paths: dict[str, Path]) -> list[dict]:
 
         print(f"  Parsed {key}: {len(records):,} total species so far", flush=True)
     return records
+
+
+# ---------------------------------------------------------------------------
+# GTDB metadata loading (assembly quality)
+# ---------------------------------------------------------------------------
+def load_gtdb_metadata() -> dict[str, dict]:
+    """Load GTDB metadata files to get assembly quality info.
+
+    Returns {accession: {ncbi_assembly_level, checkm2_completeness, checkm2_contamination}}.
+    """
+    metadata = {}
+    for key, url in GTDB_METADATA_URLS.items():
+        filename = url.rsplit("/", 1)[-1]
+        path = GTDB_DIR / filename
+        if not path.exists():
+            print(f"  WARNING: {path} not found, download GTDB metadata first", flush=True)
+            continue
+        with gzip.open(path, "rt") as f:
+            header = f.readline().strip().split("\t")
+            accn_idx = header.index("accession")
+            level_idx = header.index("ncbi_assembly_level")
+            comp_idx = header.index("checkm2_completeness")
+            cont_idx = header.index("checkm2_contamination")
+            for line in f:
+                parts = line.strip().split("\t")
+                if len(parts) <= max(accn_idx, level_idx, comp_idx, cont_idx):
+                    continue
+                accn = parts[accn_idx]
+                try:
+                    comp = float(parts[comp_idx]) if parts[comp_idx] else 0.0
+                    cont = float(parts[cont_idx]) if parts[cont_idx] else 100.0
+                except ValueError:
+                    comp, cont = 0.0, 100.0
+                metadata[accn] = {
+                    "ncbi_assembly_level": parts[level_idx],
+                    "completeness": comp,
+                    "contamination": cont,
+                }
+        print(f"  Loaded {key} metadata: {len(metadata):,} genomes", flush=True)
+    return metadata
+
+
+def filter_complete_genomes(
+    gtdb_records: list[dict],
+    metadata: dict[str, dict],
+) -> list[dict]:
+    """Filter GTDB records to complete/high-quality genomes.
+
+    Primary: assembly_level in ('Complete Genome', 'Chromosome')
+    Fallback: If a phylum has no complete genomes, allow high-quality scaffolds
+    (completeness >= 95% AND contamination <= 5%).
+    """
+    # Classify each record
+    complete = []
+    hq_scaffold = []
+    rest = []
+
+    for rec in gtdb_records:
+        meta = metadata.get(rec["genome_id"])
+        if not meta:
+            rest.append(rec)
+            continue
+        level = meta["ncbi_assembly_level"]
+        if level in ("Complete Genome", "Chromosome"):
+            rec["_assembly_level"] = level
+            complete.append(rec)
+        elif meta["completeness"] >= 95 and meta["contamination"] <= 5:
+            rec["_assembly_level"] = f"{level} (HQ)"
+            hq_scaffold.append(rec)
+        else:
+            rest.append(rec)
+
+    # Find phyla represented only in HQ scaffolds (not in complete)
+    complete_phyla = {r["Phylum"] for r in complete}
+    fallback = [r for r in hq_scaffold if r["Phylum"] not in complete_phyla]
+
+    filtered = complete + fallback
+
+    # Stats
+    filtered_phyla = {r["Phylum"] for r in filtered}
+    all_phyla = {r["Phylum"] for r in gtdb_records}
+    lost_phyla = all_phyla - filtered_phyla
+
+    print(f"  Complete/Chromosome genomes: {len(complete):,}", flush=True)
+    print(f"  HQ scaffold fallback (phyla w/o complete): {len(fallback):,}", flush=True)
+    print(f"  Filtered total: {len(filtered):,} (from {len(gtdb_records):,})", flush=True)
+    print(f"  Phyla retained: {len(filtered_phyla)} (lost {len(lost_phyla)})", flush=True)
+
+    return filtered
 
 
 # ---------------------------------------------------------------------------
@@ -479,7 +578,8 @@ def write_outputs(
 
     # Write metadata CSV
     meta_fields = ["Tip_ID", "Phylum", "Ecoli_Reference",
-                   "EF_Tu_Identity", "SecY_Identity", "MuA_Identity", "IS621_Identity"]
+                   "EF_Tu_Identity", "SecY_Identity", "MuA_Identity",
+                   "IS621_Identity", "IS911_Identity"]
     with open(OUTPUT_METADATA, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=meta_fields)
         writer.writeheader()
@@ -489,50 +589,59 @@ def write_outputs(
     # Summary statistics
     phyla = set(r["Phylum"] for r in taxonomy_rows)
     domains = set(r["Domain"] for r in taxonomy_rows)
-    n_is621 = sum(1 for m in metadata if m["IS621_Identity"] != "NA")
-    n_eftu = sum(1 for m in metadata if m["EF_Tu_Identity"] != "NA")
-    n_secy = sum(1 for m in metadata if m["SecY_Identity"] != "NA")
-    n_mua = sum(1 for m in metadata if m["MuA_Identity"] != "NA")
-
     print(f"\n=== Summary ===", flush=True)
     print(f"Representatives: {len(taxonomy_rows)}", flush=True)
     print(f"Domains: {', '.join(sorted(domains))}", flush=True)
     print(f"Phyla: {len(phyla)}", flush=True)
-    print(f"IS621 hits: {n_is621}/{len(metadata)}", flush=True)
-    print(f"EF-Tu hits: {n_eftu}/{len(metadata)}", flush=True)
-    print(f"SecY hits: {n_secy}/{len(metadata)}", flush=True)
-    print(f"MuA hits: {n_mua}/{len(metadata)}", flush=True)
+    for protein in PROTEINS:
+        col = f"{protein}_Identity"
+        n_hits = sum(1 for m in metadata if m.get(col) not in ("NA", None))
+        print(f"{protein} hits: {n_hits}/{len(metadata)}", flush=True)
 
 
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 def main():
+    parser = argparse.ArgumentParser(description="GTDB-first tree metadata builder")
+    parser.add_argument("--complete-only", action="store_true",
+                        help="Filter to Complete Genome / Chromosome assemblies (V3)")
+    args = parser.parse_args()
+
+    mode = "V3 (complete genomes)" if args.complete_only else "V2 (all assemblies)"
     print("=" * 60, flush=True)
-    print("V2: GTDB-first phylogenetic tree metadata builder", flush=True)
+    print(f"GTDB-first phylogenetic tree metadata builder — {mode}", flush=True)
     print("=" * 60, flush=True)
 
     # Step 1: Download GTDB taxonomy
-    print("\n[1/5] Downloading GTDB taxonomy...", flush=True)
+    print("\n[1/6] Downloading GTDB taxonomy...", flush=True)
     gtdb_paths = download_gtdb_taxonomy()
 
     # Step 2: Parse GTDB taxonomy
-    print("\n[2/5] Parsing GTDB taxonomy...", flush=True)
+    print("\n[2/6] Parsing GTDB taxonomy...", flush=True)
     gtdb_records = parse_gtdb_taxonomy(gtdb_paths)
     print(f"  Total GTDB species with complete taxonomy: {len(gtdb_records):,}", flush=True)
 
-    # Step 3: Load BLAST data and build genus index
-    print("\n[3/5] Loading BLAST data...", flush=True)
+    # Step 3: Filter to complete genomes (V3)
+    if args.complete_only:
+        print("\n[3/6] Filtering to complete genomes...", flush=True)
+        gtdb_metadata = load_gtdb_metadata()
+        gtdb_records = filter_complete_genomes(gtdb_records, gtdb_metadata)
+    else:
+        print("\n[3/6] Skipping assembly filter (use --complete-only for V3)...", flush=True)
+
+    # Step 4: Load BLAST data and build genus index
+    print("\n[4/6] Loading BLAST data...", flush=True)
     blast_hits = load_blast_hits()
     blast_genus_index = build_blast_genus_index(blast_hits)
     print(f"  Unique genera in BLAST data: {len(blast_genus_index)}", flush=True)
 
-    # Step 4: Select representatives
-    print("\n[4/5] Selecting representatives...", flush=True)
+    # Step 5: Select representatives
+    print("\n[5/6] Selecting representatives...", flush=True)
     representatives = select_representatives(gtdb_records, blast_genus_index)
 
-    # Step 5: Map BLAST and write output
-    print("\n[5/5] Mapping BLAST data and writing output...", flush=True)
+    # Step 6: Map BLAST and write output
+    print("\n[6/6] Mapping BLAST data and writing output...", flush=True)
     metadata = map_blast_to_reps(representatives, blast_genus_index)
     write_outputs(representatives, metadata)
 

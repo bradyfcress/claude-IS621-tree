@@ -1,1 +1,1285 @@
-{"GCA_001822655.1": {"taxid": "1802319", "organism": "Candidatus Taylorbacteria bacterium RIFCSPLOWO2_01_FULL_45_15b (bacteria)"}, "GCA_002779075.1": {"taxid": "1974403", "organism": "Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_30_16 (archaea)"}, "GCA_038871545.1": {"taxid": "2026803", "organism": "Candidatus Woesearchaeota archaeon (archaea)"}, "GCA_002779395.1": {"taxid": "1974045", "organism": "Ignavibacteriales bacterium CG07_land_8_20_14_0_80_59_12 (bacteria)"}, "GCA_002778735.1": {"taxid": "1974513", "organism": "Candidatus Berkelbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_41_12 (bacteria)"}, "GCA_002787695.1": {"taxid": "1975115", "organism": "Candidatus Zambryskibacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_12 (bacteria)"}, "GCA_002778785.1": {"taxid": "1973927", "organism": "Bdellovibrionales bacterium CG10_big_fil_rev_8_21_14_0_10_45_34 (bacteria)"}, "GCA_002796325.1": {"taxid": "1973975", "organism": "Deltaproteobacteria bacterium CG11_big_fil_rev_8_21_14_0_20_47_16 (d-proteobacteria)"}, "GCA_036740675.1": {"taxid": "1978231", "organism": "Acidobacteriota bacterium (bacteria)"}, "GCA_001800075.1": {"taxid": "1797946", "organism": "Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_59_12 (bacteria)"}, "GCA_039914845.1": {"taxid": "2306052", "organism": "Nitrospiria bacterium (bacteria)"}, "GCA_016180655.1": {"taxid": "2072417", "organism": "Candidatus Methylomirabilota bacterium (bacteria)"}, "GCA_903884725.1": {"taxid": "152509", "organism": "uncultured Bacteroidota bacterium (CFB group bacteria)"}, "GCA_001769355.1": {"taxid": "1797362", "organism": "Bacteroidetes bacterium RIFCSPLOWO2_02_FULL_36_8 (CFB group bacteria)"}, "GCA_039804085.1": {"taxid": "2052148", "organism": "candidate division WOR-3 bacterium (bacteria)"}, "GCA_036831825.1": {"taxid": "2026714", "organism": "Candidatus Bathyarchaeota archaeon (archaea)"}, "GCA_001918665.1": {"taxid": "1805116", "organism": "Deltaproteobacteria bacterium 13_1_40CM_3_69_14 (d-proteobacteria)"}, "GCA_021160305.1": {"taxid": "2053570", "organism": "Candidatus Latescibacterota bacterium (bacteria)"}, "GCA_029933055.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_002085385.1": {"taxid": "1970780", "organism": "candidate division Zixibacteria bacterium 4484_93 (bacteria)"}, "GCA_002085375.1": {"taxid": "1970781", "organism": "candidate division Zixibacteria bacterium 4484_95 (bacteria)"}, "GCA_029934155.1": {"taxid": "2030927", "organism": "Bacteroidales bacterium (CFB group bacteria)"}, "GCA_029932075.1": {"taxid": "2052143", "organism": "Anaerolineae bacterium (GNS bacteria)"}, "GCA_022839995.1": {"taxid": "2268202", "organism": "Synergistota bacterium (bacteria)"}, "GCA_003265975.1": {"taxid": "2184347", "organism": "Candidatus Marinamargulisbacteria bacterium SCGC AAA071-K20 (bacteria)"}, "GCA_005888395.1": {"taxid": "2900548", "organism": "Actinomycetota bacterium (actinobacteria)"}, "GCA_005223085.1": {"taxid": "2012486", "organism": "Candidatus Aerophobetes bacterium Ae_b3b (bacteria)"}, "GCA_038897495.1": {"taxid": "1906666", "organism": "Thermoplasmata archaeon (archaea)"}, "GCA_913046255.1": {"taxid": "2006128", "organism": "uncultured Dehalococcoidales bacterium (GNS bacteria)"}, "GCA_002688325.1": {"taxid": "1906665", "organism": "archaeon (archaea)"}, "GCA_014338115.1": {"taxid": "2033014", "organism": "Armatimonadota bacterium (bacteria)"}, "GCA_035607015.1": {"taxid": "2976921", "organism": "Candidatus Angelobacter sp. (bacteria)"}, "GCA_021777055.1": {"taxid": "2945017", "organism": "Candidatus Anammoxibacter sp. (planctomycetes)"}, "GCA_030591785.1": {"taxid": "2026735", "organism": "Deltaproteobacteria bacterium (bacteria)"}, "GCA_003661385.1": {"taxid": "2056631", "organism": "Thermoproteota archaeon (crenarchaeotes)"}, "GCA_003650255.1": {"taxid": "2052147", "organism": "Caldisericota bacterium (bacteria)"}, "GCA_003641545.1": {"taxid": "28240", "organism": "Thermotoga sp. (thermotogales)"}, "GCA_003647695.1": {"taxid": "2250272", "organism": "Candidatus Coatesiibacteriota bacterium (bacteria)"}, "GCA_937880955.1": {"taxid": "460511", "organism": "uncultured Spirochaetota bacterium (bacteria)"}, "GCA_937896405.1": {"taxid": "376542", "organism": "uncultured Thermoplasmata archaeon (archaea)"}, "GCA_030627825.1": {"taxid": "2250254", "organism": "Thermococci archaeon (euryarchaeotes)"}, "GCA_012961745.1": {"taxid": "2212473", "organism": "Kiritimatiellia bacterium (bacteria)"}, "GCA_003660555.1": {"taxid": "2250254", "organism": "Thermococci archaeon (euryarchaeotes)"}, "GCA_003647765.1": {"taxid": "2030808", "organism": "Candidatus Cloacimonadota bacterium (bacteria)"}, "GCA_021161865.1": {"taxid": "1906666", "organism": "Thermoplasmata archaeon (archaea)"}, "GCA_947444175.1": {"taxid": "2026799", "organism": "Verrucomicrobiota bacterium (verrucomicrobia)"}, "GCA_021827715.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_016783345.1": {"taxid": "2035772", "organism": "Candidatus Omnitrophota bacterium (bacteria)"}, "GCA_026712765.1": {"taxid": "1977087", "organism": "Pseudomonadota bacterium (proteobacteria)"}, "GCA_003136455.1": {"taxid": "2026739", "organism": "Methanobacteriota archaeon (euryarchaeotes)"}, "GCA_017650365.1": {"taxid": "2478481", "organism": "Fibrobacterales bacterium (bacteria)"}, "GCA_037138975.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_036834425.1": {"taxid": "2030809", "organism": "Candidatus Hydrogenedentota bacterium (bacteria)"}, "GCA_018817565.1": {"taxid": "2035772", "organism": "Candidatus Omnitrophota bacterium (bacteria)"}, "GCA_903844735.1": {"taxid": "2212470", "organism": "Candidatus Eiseniibacteriota bacterium (bacteria)"}, "GCA_937895165.1": {"taxid": "170969", "organism": "uncultured Nitrospirota bacterium (bacteria)"}, "GCA_913054385.1": {"taxid": "153809", "organism": "uncultured Pseudomonadota bacterium (proteobacteria)"}, "GCA_036722415.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_945877765.1": {"taxid": "2035772", "organism": "Candidatus Omnitrophota bacterium (bacteria)"}, "GCA_947178315.1": {"taxid": "194926", "organism": "uncultured Desulfovibrionaceae bacterium (bacteria)"}, "GCA_947313855.1": {"taxid": "417995", "organism": "uncultured Deferribacteraceae bacterium (bacteria)"}, "GCA_032127055.1": {"taxid": "1978231", "organism": "Acidobacteriota bacterium (bacteria)"}, "GCA_002779155.1": {"taxid": "1805029", "organism": "Candidatus Infernicultor aquiphilus (bacteria)"}, "GCA_002790015.1": {"taxid": "1974546", "organism": "Candidatus Desantisbacteria bacterium CG_4_9_14_3_um_filter_40_11 (bacteria)"}, "GCA_041489905.1": {"taxid": "2026734", "organism": "Dehalococcoidia bacterium (GNS bacteria)"}, "GCA_913053775.1": {"taxid": "77133", "organism": "uncultured bacterium (bacteria)"}, "GCA_003558235.1": {"taxid": "3101447", "organism": "Candidatus Iainarchaeum sp. (archaea)"}, "GCA_011043115.1": {"taxid": "2026714", "organism": "Candidatus Bathyarchaeota archaeon (archaea)"}, "GCA_030625085.1": {"taxid": "1977087", "organism": "Pseudomonadota bacterium (proteobacteria)"}, "GCA_030673425.1": {"taxid": "2030800", "organism": "Elusimicrobiota bacterium (bacteria)"}, "GCA_030633305.1": {"taxid": "3061976", "organism": "Candidatus Muiribacteriota bacterium (bacteria)"}, "GCA_035648815.1": {"taxid": "2499141", "organism": "Verrucomicrobiia bacterium (verrucomicrobia)"}, "GCA_035292885.1": {"taxid": "3034175", "organism": "Bdellovibrionota bacterium (bacteria)"}, "GCA_038835115.1": {"taxid": "2933264", "organism": "Acidilobaceae archaeon (crenarchaeotes)"}, "GCA_963663365.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_963667425.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_002753255.1": {"taxid": "2035771", "organism": "Candidatus Lambdaproteobacteria bacterium (proteobacteria)"}, "GCA_023142905.1": {"taxid": "3121606", "organism": "Candidatus Aenigmatarchaeota archaeon (archaea)"}, "GCA_012517755.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_013360565.1": {"taxid": "2715255", "organism": "Candidatus Sumerlaeia bacterium (bacteria)"}, "GCA_040906025.1": {"taxid": "2910147", "organism": "Vicinamibacterales bacterium (bacteria)"}, "GCA_016201735.1": {"taxid": "2035772", "organism": "Candidatus Omnitrophota bacterium (bacteria)"}, "GCA_027417755.1": {"taxid": "1872521", "organism": "Anaeromyxobacter sp. (bacteria)"}, "GCA_022573735.1": {"taxid": "1978231", "organism": "Acidobacteriota bacterium (bacteria)"}, "GCA_022567475.1": {"taxid": "1978231", "organism": "Acidobacteriota bacterium (bacteria)"}, "GCA_016718015.1": {"taxid": "1898104", "organism": "Bacteroidota bacterium (CFB group bacteria)"}, "GCA_017610385.1": {"taxid": "2099673", "organism": "Candidatus Nanohalarchaeota archaeon (archaea)"}, "GCA_016930115.1": {"taxid": "2026792", "organism": "Spirochaetales bacterium (spirochetes)"}, "GCA_021162805.1": {"taxid": "2026781", "organism": "Candidatus Poribacteria bacterium (bacteria)"}, "GCA_020051775.1": {"taxid": "2212469", "organism": "Calditrichota bacterium (bacteria)"}, "GCA_036778795.1": {"taxid": "2026764", "organism": "Nanobdellota archaeon (archaea)"}, "GCA_035385725.1": {"taxid": "2873829", "organism": "Anaerohalosphaeraceae bacterium (planctomycetes)"}, "GCA_018899515.1": {"taxid": "2026764", "organism": "Nanobdellota archaeon (archaea)"}, "GCA_027372035.1": {"taxid": "2528272", "organism": "Candidatus Harrisonbacteria bacterium (bacteria)"}, "GCA_018817985.1": {"taxid": "2052139", "organism": "Patescibacteria group bacterium (bacteria)"}, "GCA_021736975.1": {"taxid": "2026803", "organism": "Candidatus Woesearchaeota archaeon (archaea)"}, "GCA_019456185.1": {"taxid": "2602803", "organism": "Candidatus Glassiibacteriota bacterium (bacteria)"}, "GCA_027365995.1": {"taxid": "2081524", "organism": "Chlamydiota bacterium (bacteria)"}, "GCA_022710975.1": {"taxid": "2818507", "organism": "Myxococcota bacterium (bacteria)"}, "GCA_027077325.1": {"taxid": "1906665", "organism": "archaeon (archaea)"}, "GCA_029551285.1": {"taxid": "1869227", "organism": "bacterium (bacteria)"}, "GCA_024763395.1": {"taxid": "2614252", "organism": "Calditrichaceae bacterium (bacteria)"}, "GCA_038891055.1": {"taxid": "2886383", "organism": "Candidatus Anstonellaceae archaeon (archaea)"}, "GCA_028695445.1": {"taxid": "2053613", "organism": "Candidatus Shapirobacteria bacterium (bacteria)"}, "GCA_031459135.1": {"taxid": "3378011", "organism": "Candidatus Geohabitans tengchongensis (bacteria)"}, "GCA_034668845.1": {"taxid": "2900548", "organism": "Actinomycetota bacterium (actinobacteria)"}, "GCA_034190145.1": {"taxid": "3100168", "organism": "Halobacteriota archaeon (archaea)"}, "GCA_037442745.1": {"taxid": "1906665", "organism": "archaeon (archaea)"}, "GCA_037440145.1": {"taxid": "2026763", "organism": "Myxococcales bacterium (bacteria)"}, "GCA_041613275.1": {"taxid": "2774603", "organism": "Candidatus Krumholzibacteriia bacterium (bacteria)"}, "GCA_041487075.1": {"taxid": "3120121", "organism": "Minisyncoccia bacterium (bacteria)"}, "GCA_041678205.1": {"taxid": "2026760", "organism": "Fidelibacterota bacterium (bacteria)"}, "GCA_008363245.1": {"taxid": "2268192", "organism": "Chlorobiota bacterium (green sulfur bacteria)"}, "GCA_021735325.1": {"taxid": "2035772", "organism": "Candidatus Omnitrophota bacterium (bacteria)"}, "GCA_040766215.1": {"taxid": "2030927", "organism": "Bacteroidales bacterium (CFB group bacteria)"}, "GCA_015493635.1": {"taxid": "1898206", "organism": "Spirochaetaceae bacterium (spirochetes)"}, "GCA_027404805.1": {"taxid": "2026735", "organism": "Deltaproteobacteria bacterium (bacteria)"}, "GCA_037927725.1": {"taxid": "2053503", "organism": "Aquificaceae bacterium (aquificales)"}, "GCA_041258105.1": {"taxid": "2024890", "organism": "Pedosphaera sp. (verrucomicrobia)"}, "GCA_003133995.1": {"taxid": "2052315", "organism": "Candidatus Dormiibacterota bacterium (bacteria)"}, "GCA_038732685.1": {"taxid": "2268200", "organism": "Sulfolobales archaeon (crenarchaeotes)"}, "GCA_038830315.1": {"taxid": "2511821", "organism": "Archaeoglobaceae archaeon (euryarchaeotes)"}}
+{
+  "GCA_001822655.1": {
+    "taxid": "1802319",
+    "organism": "Candidatus Taylorbacteria bacterium RIFCSPLOWO2_01_FULL_45_15b (bacteria)"
+  },
+  "GCA_002779075.1": {
+    "taxid": "1974403",
+    "organism": "Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_30_16 (archaea)"
+  },
+  "GCA_038871545.1": {
+    "taxid": "2026803",
+    "organism": "Candidatus Woesearchaeota archaeon (archaea)"
+  },
+  "GCA_002779395.1": {
+    "taxid": "1974045",
+    "organism": "Ignavibacteriales bacterium CG07_land_8_20_14_0_80_59_12 (bacteria)"
+  },
+  "GCA_002778735.1": {
+    "taxid": "1974513",
+    "organism": "Candidatus Berkelbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_41_12 (bacteria)"
+  },
+  "GCA_002787695.1": {
+    "taxid": "1975115",
+    "organism": "Candidatus Zambryskibacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_12 (bacteria)"
+  },
+  "GCA_002778785.1": {
+    "taxid": "1973927",
+    "organism": "Bdellovibrionales bacterium CG10_big_fil_rev_8_21_14_0_10_45_34 (bacteria)"
+  },
+  "GCA_002796325.1": {
+    "taxid": "1973975",
+    "organism": "Deltaproteobacteria bacterium CG11_big_fil_rev_8_21_14_0_20_47_16 (d-proteobacteria)"
+  },
+  "GCA_036740675.1": {
+    "taxid": "1978231",
+    "organism": "Acidobacteriota bacterium (bacteria)"
+  },
+  "GCA_001800075.1": {
+    "taxid": "1797946",
+    "organism": "Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_59_12 (bacteria)"
+  },
+  "GCA_039914845.1": {
+    "taxid": "2306052",
+    "organism": "Nitrospiria bacterium (bacteria)"
+  },
+  "GCA_016180655.1": {
+    "taxid": "2072417",
+    "organism": "Candidatus Methylomirabilota bacterium (bacteria)"
+  },
+  "GCA_903884725.1": {
+    "taxid": "152509",
+    "organism": "uncultured Bacteroidota bacterium (CFB group bacteria)"
+  },
+  "GCA_001769355.1": {
+    "taxid": "1797362",
+    "organism": "Bacteroidetes bacterium RIFCSPLOWO2_02_FULL_36_8 (CFB group bacteria)"
+  },
+  "GCA_039804085.1": {
+    "taxid": "2052148",
+    "organism": "candidate division WOR-3 bacterium (bacteria)"
+  },
+  "GCA_036831825.1": {
+    "taxid": "2026714",
+    "organism": "Candidatus Bathyarchaeota archaeon (archaea)"
+  },
+  "GCA_001918665.1": {
+    "taxid": "1805116",
+    "organism": "Deltaproteobacteria bacterium 13_1_40CM_3_69_14 (d-proteobacteria)"
+  },
+  "GCA_021160305.1": {
+    "taxid": "2053570",
+    "organism": "Candidatus Latescibacterota bacterium (bacteria)"
+  },
+  "GCA_029933055.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_002085385.1": {
+    "taxid": "1970780",
+    "organism": "candidate division Zixibacteria bacterium 4484_93 (bacteria)"
+  },
+  "GCA_002085375.1": {
+    "taxid": "1970781",
+    "organism": "candidate division Zixibacteria bacterium 4484_95 (bacteria)"
+  },
+  "GCA_029934155.1": {
+    "taxid": "2030927",
+    "organism": "Bacteroidales bacterium (CFB group bacteria)"
+  },
+  "GCA_029932075.1": {
+    "taxid": "2052143",
+    "organism": "Anaerolineae bacterium (GNS bacteria)"
+  },
+  "GCA_022839995.1": {
+    "taxid": "2268202",
+    "organism": "Synergistota bacterium (bacteria)"
+  },
+  "GCA_003265975.1": {
+    "taxid": "2184347",
+    "organism": "Candidatus Marinamargulisbacteria bacterium SCGC AAA071-K20 (bacteria)"
+  },
+  "GCA_005888395.1": {
+    "taxid": "2900548",
+    "organism": "Actinomycetota bacterium (actinobacteria)"
+  },
+  "GCA_005223085.1": {
+    "taxid": "2012486",
+    "organism": "Candidatus Aerophobetes bacterium Ae_b3b (bacteria)"
+  },
+  "GCA_038897495.1": {
+    "taxid": "1906666",
+    "organism": "Thermoplasmata archaeon (archaea)"
+  },
+  "GCA_913046255.1": {
+    "taxid": "2006128",
+    "organism": "uncultured Dehalococcoidales bacterium (GNS bacteria)"
+  },
+  "GCA_002688325.1": {
+    "taxid": "1906665",
+    "organism": "archaeon (archaea)"
+  },
+  "GCA_014338115.1": {
+    "taxid": "2033014",
+    "organism": "Armatimonadota bacterium (bacteria)"
+  },
+  "GCA_035607015.1": {
+    "taxid": "2976921",
+    "organism": "Candidatus Angelobacter sp. (bacteria)"
+  },
+  "GCA_021777055.1": {
+    "taxid": "2945017",
+    "organism": "Candidatus Anammoxibacter sp. (planctomycetes)"
+  },
+  "GCA_030591785.1": {
+    "taxid": "2026735",
+    "organism": "Deltaproteobacteria bacterium (bacteria)"
+  },
+  "GCA_003661385.1": {
+    "taxid": "2056631",
+    "organism": "Thermoproteota archaeon (crenarchaeotes)"
+  },
+  "GCA_003650255.1": {
+    "taxid": "2052147",
+    "organism": "Caldisericota bacterium (bacteria)"
+  },
+  "GCA_003641545.1": {
+    "taxid": "28240",
+    "organism": "Thermotoga sp. (thermotogales)"
+  },
+  "GCA_003647695.1": {
+    "taxid": "2250272",
+    "organism": "Candidatus Coatesiibacteriota bacterium (bacteria)"
+  },
+  "GCA_937880955.1": {
+    "taxid": "460511",
+    "organism": "uncultured Spirochaetota bacterium (bacteria)"
+  },
+  "GCA_937896405.1": {
+    "taxid": "376542",
+    "organism": "uncultured Thermoplasmata archaeon (archaea)"
+  },
+  "GCA_030627825.1": {
+    "taxid": "2250254",
+    "organism": "Thermococci archaeon (euryarchaeotes)"
+  },
+  "GCA_012961745.1": {
+    "taxid": "2212473",
+    "organism": "Kiritimatiellia bacterium (bacteria)"
+  },
+  "GCA_003660555.1": {
+    "taxid": "2250254",
+    "organism": "Thermococci archaeon (euryarchaeotes)"
+  },
+  "GCA_003647765.1": {
+    "taxid": "2030808",
+    "organism": "Candidatus Cloacimonadota bacterium (bacteria)"
+  },
+  "GCA_021161865.1": {
+    "taxid": "1906666",
+    "organism": "Thermoplasmata archaeon (archaea)"
+  },
+  "GCA_947444175.1": {
+    "taxid": "2026799",
+    "organism": "Verrucomicrobiota bacterium (verrucomicrobia)"
+  },
+  "GCA_021827715.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_016783345.1": {
+    "taxid": "2035772",
+    "organism": "Candidatus Omnitrophota bacterium (bacteria)"
+  },
+  "GCA_026712765.1": {
+    "taxid": "1977087",
+    "organism": "Pseudomonadota bacterium (proteobacteria)"
+  },
+  "GCA_003136455.1": {
+    "taxid": "2026739",
+    "organism": "Methanobacteriota archaeon (euryarchaeotes)"
+  },
+  "GCA_017650365.1": {
+    "taxid": "2478481",
+    "organism": "Fibrobacterales bacterium (bacteria)"
+  },
+  "GCA_037138975.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_036834425.1": {
+    "taxid": "2030809",
+    "organism": "Candidatus Hydrogenedentota bacterium (bacteria)"
+  },
+  "GCA_018817565.1": {
+    "taxid": "2035772",
+    "organism": "Candidatus Omnitrophota bacterium (bacteria)"
+  },
+  "GCA_903844735.1": {
+    "taxid": "2212470",
+    "organism": "Candidatus Eiseniibacteriota bacterium (bacteria)"
+  },
+  "GCA_937895165.1": {
+    "taxid": "170969",
+    "organism": "uncultured Nitrospirota bacterium (bacteria)"
+  },
+  "GCA_913054385.1": {
+    "taxid": "153809",
+    "organism": "uncultured Pseudomonadota bacterium (proteobacteria)"
+  },
+  "GCA_036722415.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_945877765.1": {
+    "taxid": "2035772",
+    "organism": "Candidatus Omnitrophota bacterium (bacteria)"
+  },
+  "GCA_947178315.1": {
+    "taxid": "194926",
+    "organism": "uncultured Desulfovibrionaceae bacterium (bacteria)"
+  },
+  "GCA_947313855.1": {
+    "taxid": "417995",
+    "organism": "uncultured Deferribacteraceae bacterium (bacteria)"
+  },
+  "GCA_032127055.1": {
+    "taxid": "1978231",
+    "organism": "Acidobacteriota bacterium (bacteria)"
+  },
+  "GCA_002779155.1": {
+    "taxid": "1805029",
+    "organism": "Candidatus Infernicultor aquiphilus (bacteria)"
+  },
+  "GCA_002790015.1": {
+    "taxid": "1974546",
+    "organism": "Candidatus Desantisbacteria bacterium CG_4_9_14_3_um_filter_40_11 (bacteria)"
+  },
+  "GCA_041489905.1": {
+    "taxid": "2026734",
+    "organism": "Dehalococcoidia bacterium (GNS bacteria)"
+  },
+  "GCA_913053775.1": {
+    "taxid": "77133",
+    "organism": "uncultured bacterium (bacteria)"
+  },
+  "GCA_003558235.1": {
+    "taxid": "3101447",
+    "organism": "Candidatus Iainarchaeum sp. (archaea)"
+  },
+  "GCA_011043115.1": {
+    "taxid": "2026714",
+    "organism": "Candidatus Bathyarchaeota archaeon (archaea)"
+  },
+  "GCA_030625085.1": {
+    "taxid": "1977087",
+    "organism": "Pseudomonadota bacterium (proteobacteria)"
+  },
+  "GCA_030673425.1": {
+    "taxid": "2030800",
+    "organism": "Elusimicrobiota bacterium (bacteria)"
+  },
+  "GCA_030633305.1": {
+    "taxid": "3061976",
+    "organism": "Candidatus Muiribacteriota bacterium (bacteria)"
+  },
+  "GCA_035648815.1": {
+    "taxid": "2499141",
+    "organism": "Verrucomicrobiia bacterium (verrucomicrobia)"
+  },
+  "GCA_035292885.1": {
+    "taxid": "3034175",
+    "organism": "Bdellovibrionota bacterium (bacteria)"
+  },
+  "GCA_038835115.1": {
+    "taxid": "2933264",
+    "organism": "Acidilobaceae archaeon (crenarchaeotes)"
+  },
+  "GCA_963663365.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_963667425.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_002753255.1": {
+    "taxid": "2035771",
+    "organism": "Candidatus Lambdaproteobacteria bacterium (proteobacteria)"
+  },
+  "GCA_023142905.1": {
+    "taxid": "3121606",
+    "organism": "Candidatus Aenigmatarchaeota archaeon (archaea)"
+  },
+  "GCA_012517755.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_013360565.1": {
+    "taxid": "2715255",
+    "organism": "Candidatus Sumerlaeia bacterium (bacteria)"
+  },
+  "GCA_040906025.1": {
+    "taxid": "2910147",
+    "organism": "Vicinamibacterales bacterium (bacteria)"
+  },
+  "GCA_016201735.1": {
+    "taxid": "2035772",
+    "organism": "Candidatus Omnitrophota bacterium (bacteria)"
+  },
+  "GCA_027417755.1": {
+    "taxid": "1872521",
+    "organism": "Anaeromyxobacter sp. (bacteria)"
+  },
+  "GCA_022573735.1": {
+    "taxid": "1978231",
+    "organism": "Acidobacteriota bacterium (bacteria)"
+  },
+  "GCA_022567475.1": {
+    "taxid": "1978231",
+    "organism": "Acidobacteriota bacterium (bacteria)"
+  },
+  "GCA_016718015.1": {
+    "taxid": "1898104",
+    "organism": "Bacteroidota bacterium (CFB group bacteria)"
+  },
+  "GCA_017610385.1": {
+    "taxid": "2099673",
+    "organism": "Candidatus Nanohalarchaeota archaeon (archaea)"
+  },
+  "GCA_016930115.1": {
+    "taxid": "2026792",
+    "organism": "Spirochaetales bacterium (spirochetes)"
+  },
+  "GCA_021162805.1": {
+    "taxid": "2026781",
+    "organism": "Candidatus Poribacteria bacterium (bacteria)"
+  },
+  "GCA_020051775.1": {
+    "taxid": "2212469",
+    "organism": "Calditrichota bacterium (bacteria)"
+  },
+  "GCA_036778795.1": {
+    "taxid": "2026764",
+    "organism": "Nanobdellota archaeon (archaea)"
+  },
+  "GCA_035385725.1": {
+    "taxid": "2873829",
+    "organism": "Anaerohalosphaeraceae bacterium (planctomycetes)"
+  },
+  "GCA_018899515.1": {
+    "taxid": "2026764",
+    "organism": "Nanobdellota archaeon (archaea)"
+  },
+  "GCA_027372035.1": {
+    "taxid": "2528272",
+    "organism": "Candidatus Harrisonbacteria bacterium (bacteria)"
+  },
+  "GCA_018817985.1": {
+    "taxid": "2052139",
+    "organism": "Patescibacteria group bacterium (bacteria)"
+  },
+  "GCA_021736975.1": {
+    "taxid": "2026803",
+    "organism": "Candidatus Woesearchaeota archaeon (archaea)"
+  },
+  "GCA_019456185.1": {
+    "taxid": "2602803",
+    "organism": "Candidatus Glassiibacteriota bacterium (bacteria)"
+  },
+  "GCA_027365995.1": {
+    "taxid": "2081524",
+    "organism": "Chlamydiota bacterium (bacteria)"
+  },
+  "GCA_022710975.1": {
+    "taxid": "2818507",
+    "organism": "Myxococcota bacterium (bacteria)"
+  },
+  "GCA_027077325.1": {
+    "taxid": "1906665",
+    "organism": "archaeon (archaea)"
+  },
+  "GCA_029551285.1": {
+    "taxid": "1869227",
+    "organism": "bacterium (bacteria)"
+  },
+  "GCA_024763395.1": {
+    "taxid": "2614252",
+    "organism": "Calditrichaceae bacterium (bacteria)"
+  },
+  "GCA_038891055.1": {
+    "taxid": "2886383",
+    "organism": "Candidatus Anstonellaceae archaeon (archaea)"
+  },
+  "GCA_028695445.1": {
+    "taxid": "2053613",
+    "organism": "Candidatus Shapirobacteria bacterium (bacteria)"
+  },
+  "GCA_031459135.1": {
+    "taxid": "3378011",
+    "organism": "Candidatus Geohabitans tengchongensis (bacteria)"
+  },
+  "GCA_034668845.1": {
+    "taxid": "2900548",
+    "organism": "Actinomycetota bacterium (actinobacteria)"
+  },
+  "GCA_034190145.1": {
+    "taxid": "3100168",
+    "organism": "Halobacteriota archaeon (archaea)"
+  },
+  "GCA_037442745.1": {
+    "taxid": "1906665",
+    "organism": "archaeon (archaea)"
+  },
+  "GCA_037440145.1": {
+    "taxid": "2026763",
+    "organism": "Myxococcales bacterium (bacteria)"
+  },
+  "GCA_041613275.1": {
+    "taxid": "2774603",
+    "organism": "Candidatus Krumholzibacteriia bacterium (bacteria)"
+  },
+  "GCA_041487075.1": {
+    "taxid": "3120121",
+    "organism": "Minisyncoccia bacterium (bacteria)"
+  },
+  "GCA_041678205.1": {
+    "taxid": "2026760",
+    "organism": "Fidelibacterota bacterium (bacteria)"
+  },
+  "GCA_008363245.1": {
+    "taxid": "2268192",
+    "organism": "Chlorobiota bacterium (green sulfur bacteria)"
+  },
+  "GCA_021735325.1": {
+    "taxid": "2035772",
+    "organism": "Candidatus Omnitrophota bacterium (bacteria)"
+  },
+  "GCA_040766215.1": {
+    "taxid": "2030927",
+    "organism": "Bacteroidales bacterium (CFB group bacteria)"
+  },
+  "GCA_015493635.1": {
+    "taxid": "1898206",
+    "organism": "Spirochaetaceae bacterium (spirochetes)"
+  },
+  "GCA_027404805.1": {
+    "taxid": "2026735",
+    "organism": "Deltaproteobacteria bacterium (bacteria)"
+  },
+  "GCA_037927725.1": {
+    "taxid": "2053503",
+    "organism": "Aquificaceae bacterium (aquificales)"
+  },
+  "GCA_041258105.1": {
+    "taxid": "2024890",
+    "organism": "Pedosphaera sp. (verrucomicrobia)"
+  },
+  "GCA_003133995.1": {
+    "taxid": "2052315",
+    "organism": "Candidatus Dormiibacterota bacterium (bacteria)"
+  },
+  "GCA_038732685.1": {
+    "taxid": "2268200",
+    "organism": "Sulfolobales archaeon (crenarchaeotes)"
+  },
+  "GCA_038830315.1": {
+    "taxid": "2511821",
+    "organism": "Archaeoglobaceae archaeon (euryarchaeotes)"
+  },
+  "Escherichia_coli": {
+    "accession": "GCF_004138645.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/138/645/GCA_004138645.1_ASM413864v1",
+    "source": "entrez"
+  },
+  "Providencia_A_siddallii_A": {
+    "accession": "GCF_964026685.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/026/685/GCA_964026685.1_PrHaacuecueyetzin_TABTEA_v1.0",
+    "source": "entrez"
+  },
+  "Pseudomonas_aeruginosa": {
+    "accession": "GCF_031824555.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/824/555/GCA_031824555.1_ASM3182455v1",
+    "source": "entrez"
+  },
+  "Vibrio_parahaemolyticus": {
+    "accession": "GCF_040010195.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/010/195/GCA_040010195.1_ASM4001019v1",
+    "source": "entrez"
+  },
+  "Acinetobacter_baumannii": {
+    "accession": "GCF_000369245.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/369/245/GCA_000369245.1_Acin_baum_NIPH_601_V1",
+    "source": "entrez"
+  },
+  "Aeromonas_caviae": {
+    "accession": "GCF_963900205.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/900/205/GCA_963900205.1_ena-yuan-GCF_900491645.1",
+    "source": "entrez"
+  },
+  "Actinobacillus_lignieresii": {
+    "accession": "GCF_000179275.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/179/275/GCA_000179275.1_ASM17927v1",
+    "source": "entrez"
+  },
+  "Niveibacterium_microcysteis": {
+    "accession": "GCF_013184235.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/184/235/GCA_013184235.1_ASM1318423v1",
+    "source": "entrez"
+  },
+  "Pseudidiomarina_fusca": {
+    "accession": "GCA_033721195.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/721/195/GCA_033721195.1_ASM3372119v1",
+    "source": "entrez"
+  },
+  "Neisseria_meningitidis": {
+    "accession": "GCF_900017055.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/017/055/GCA_900017055.1_14324_4_40",
+    "source": "entrez"
+  },
+  "Rhodanobacter_denitrificans": {
+    "accession": "GCF_000264355.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/264/355/GCA_000264355.1_Rh24678",
+    "source": "entrez"
+  },
+  "Janthinobacterium_lividum": {
+    "accession": "GCF_900451145.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/451/145/GCA_900451145.1_53618_C01",
+    "source": "entrez"
+  },
+  "Methylocaldum_szegediense": {
+    "accession": "GCF_000427385.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/427/385/GCA_000427385.1_ASM42738v1",
+    "source": "entrez"
+  },
+  "Solimonas_A_sp003428335": {
+    "accession": "GCF_003428335.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/428/335/GCA_003428335.1_ASM342833v1",
+    "source": "entrez"
+  },
+  "Methylomonas_koyamae": {
+    "accession": "GCF_031582845.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/582/845/GCA_031582845.1_ASM3158284v1",
+    "source": "entrez"
+  },
+  "Staphylococcus_aureus": {
+    "accession": "GCF_030533975.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/533/975/GCA_030533975.1_ASM3053397v1",
+    "source": "entrez"
+  },
+  "Enterococcus_faecalis": {
+    "accession": "GCF_021123725.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/123/725/GCA_021123725.1_ASM2112372v1",
+    "source": "entrez"
+  },
+  "Lactobacillus_crispatus": {
+    "accession": "GCF_001700475.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/700/475/GCA_001700475.1_ASM170047v1",
+    "source": "entrez"
+  },
+  "Negativicoccus_massiliensis_A": {
+    "accession": "GCA_938048435.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/938/048/435/GCA_938048435.1_ERR866566_bin.47_CONCOCT_v1.1_MAG",
+    "source": "entrez"
+  },
+  "Rossellomorea_marisflavi": {
+    "accession": "GCF_040719935.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/719/935/GCA_040719935.1_ASM4071993v1",
+    "source": "entrez"
+  },
+  "Symbiobacterium_thermophilum": {
+    "accession": "GCF_000009905.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/009/905/GCA_000009905.1_ASM990v1",
+    "source": "entrez"
+  },
+  "Terrisporobacter_petrolearius": {
+    "accession": "GCF_031994785.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/994/785/GCA_031994785.1_ASM3199478v1",
+    "source": "entrez"
+  },
+  "Abyssicoccus_albus": {
+    "accession": "GCF_003815035.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/815/035/GCA_003815035.1_ASM381503v1",
+    "source": "entrez"
+  },
+  "Hungateiclostridium_thermocellum": {
+    "accession": "GCF_000184925.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/184/925/GCA_000184925.1_ASM18492v1",
+    "source": "entrez"
+  },
+  "Acetohalobium_arabaticum": {
+    "accession": "GCF_000144695.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/144/695/GCA_000144695.1_ASM14469v1",
+    "source": "entrez"
+  },
+  "Phytoplasma_australasiaticum": {
+    "accession": "GCA_032887915.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/887/915/GCA_032887915.1_ASM3288791v1",
+    "source": "entrez"
+  },
+  "G963665925_sp963678925": {
+    "accession": "GCA_963678925.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/678/925/GCA_963678925.1_piPlaSpec1.Acidaminobacter_sp_1.1",
+    "source": "entrez"
+  },
+  "Phascolarctobacterium_faecium": {
+    "accession": "GCF_905206795.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/206/795/GCA_905206795.1_ERR1600737-mag-bin.83",
+    "source": "entrez"
+  },
+  "Acidilutibacter_cellobiosedens": {
+    "accession": "GCA_036837605.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/036/837/605/GCA_036837605.1_ASM3683760v1",
+    "source": "entrez"
+  },
+  "Acutalibacter_muris": {
+    "accession": "GCA_948908735.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/948/908/735/GCA_948908735.1_MGBC162652",
+    "source": "entrez"
+  },
+  "Flavobacterium_psychrophilum": {
+    "accession": "GCF_035752925.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/752/925/GCA_035752925.1_ASM3575292v1",
+    "source": "entrez"
+  },
+  "Rhodocytophaga_rosea": {
+    "accession": "GCF_010119975.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/010/119/975/GCA_010119975.1_ASM1011997v1",
+    "source": "entrez"
+  },
+  "Cardinium_sp007559345": {
+    "accession": "GCF_007559345.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/559/345/GCA_007559345.1_ASM755934v1",
+    "source": "entrez"
+  },
+  "Azobacteroides_pseudotrichonymphae": {
+    "accession": "GCA_036245135.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/036/245/135/GCA_036245135.1_ASM3624513v1",
+    "source": "entrez"
+  },
+  "Aurantibacillus_circumpalustris": {
+    "accession": "GCF_029625215.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/625/215/GCA_029625215.1_ASM2962521v1",
+    "source": "entrez"
+  },
+  "Phocaeicola_vulgatus": {
+    "accession": "GCA_036728175.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/036/728/175/GCA_036728175.1_ASM3672817v1",
+    "source": "entrez"
+  },
+  "Barnesiella_merdigallinarum": {
+    "accession": "GCA_949294465.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/294/465/GCA_949294465.1_O61_L4_308308_idba_bin.120",
+    "source": "entrez"
+  },
+  "Bernardetia_sp020630575": {
+    "accession": "GCF_037126285.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/126/285/GCA_037126285.1_ASM3712628v1",
+    "source": "entrez"
+  },
+  "Promineifilum_breve": {
+    "accession": "GCF_900066015.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/066/015/GCA_900066015.1_Cfx-K",
+    "source": "entrez"
+  },
+  "Brevefilum_fermentans": {
+    "accession": "GCF_900184705.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/184/705/GCA_900184705.1_CAMBI-1",
+    "source": "entrez"
+  },
+  "Bin16_sp958295525": {
+    "accession": "GCA_958295525.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/958/295/525/GCA_958295525.1_odAgeOroi1.Dehalococcoidia_14.1",
+    "source": "entrez"
+  },
+  "JAPOXK01_sp963663895": {
+    "accession": "GCA_963663895.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/663/895/GCA_963663895.1_odXesBerg1.Dehalococcoidia_1.1",
+    "source": "entrez"
+  },
+  "JAAFGM01_sp025998955": {
+    "accession": "GCA_025998955.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/025/998/955/GCA_025998955.1_ASM2599895v1",
+    "source": "entrez"
+  },
+  "GCA_958296115_sp958296115": {
+    "accession": "GCA_958296115.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/958/296/115/GCA_958296115.1_odAgeOroi1.Dehalococcoidia_10.1",
+    "source": "entrez"
+  },
+  "CATOSD01_sp963667445": {
+    "accession": "GCA_963667445.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/667/445/GCA_963667445.1_odXesBerg1.Dehalococcoidia_7.1",
+    "source": "entrez"
+  },
+  "CATQGZ01_sp958295685": {
+    "accession": "GCA_958295685.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/958/295/685/GCA_958295685.1_odAgeOroi1.Dehalococcoidia_19.1",
+    "source": "entrez"
+  },
+  "Streptomyces_albidoflavus": {
+    "accession": "GCF_040677835.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/677/835/GCA_040677835.1_ASM4067783v1",
+    "source": "entrez"
+  },
+  "Bifidobacterium_longum": {
+    "accession": "GCF_964238715.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/238/715/GCA_964238715.1_CC00836",
+    "source": "entrez"
+  },
+  "Microbacterium_sp002456035": {
+    "accession": "GCF_040686935.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/686/935/GCA_040686935.1_ASM4068693v1",
+    "source": "entrez"
+  },
+  "Corynebacterium_diphtheriae": {
+    "accession": "GCF_000255155.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/255/155/GCA_000255155.1_ASM25515v1",
+    "source": "entrez"
+  },
+  "JACDBR01_sp021496505": {
+    "accession": "GCA_021496505.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/496/505/GCA_021496505.1_ASM2149650v1",
+    "source": "entrez"
+  },
+  "Acidimicrobium_ferrooxidans": {
+    "accession": "GCF_000023265.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/023/265/GCA_000023265.1_ASM2326v1",
+    "source": "entrez"
+  },
+  "Acidothermus_cellulolyticus": {
+    "accession": "GCA_023512095.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/512/095/GCA_023512095.1_ASM2351209v1",
+    "source": "entrez"
+  },
+  "Trueperella_pyogenes": {
+    "accession": "GCF_040763555.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/040/763/555/GCA_040763555.1_ASM4076355v1",
+    "source": "entrez"
+  },
+  "MFHE01_sp016432405": {
+    "accession": "GCA_016432405.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/432/405/GCA_016432405.1_ASM1643240v1",
+    "source": "entrez"
+  },
+  "GCA_016699145_sp016699145": {
+    "accession": "GCA_016699145.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/699/145/GCA_016699145.1_ASM1669914v1",
+    "source": "entrez"
+  },
+  "GCA_016432625_sp016432625": {
+    "accession": "GCA_016432565.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/432/565/GCA_016432565.1_ASM1643256v1",
+    "source": "entrez"
+  },
+  "HK_STAS_PATE_2_sp023898425": {
+    "accession": "GCA_020429715.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/429/715/GCA_020429715.1_ASM2042971v1",
+    "source": "entrez"
+  },
+  "2011_GWC2_44_17_sp001029695": {
+    "accession": "GCA_003508055.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/508/055/GCA_003508055.1_ASM350805v1",
+    "source": "entrez"
+  },
+  "Aalborg_AAW_1_sp001007975": {
+    "accession": "GCA_001007975.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/007/975/GCA_001007975.1_ASM100797v1",
+    "source": "entrez"
+  },
+  "BOKC01_sp016860785": {
+    "accession": "GCA_030583745.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/583/745/GCA_030583745.1_ASM3058374v1",
+    "source": "entrez"
+  },
+  "GWC1_49_16_sp001029675": {
+    "accession": "GCA_001776075.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/776/075/GCA_001776075.1_ASM177607v1",
+    "source": "entrez"
+  },
+  "Dissulfurimicrobium_hydrothermale": {
+    "accession": "GCF_022026155.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/022/026/155/GCA_022026155.1_ASM2202615v1",
+    "source": "entrez"
+  },
+  "Desulfoluna_limicola": {
+    "accession": "GCF_021654575.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/654/575/GCA_021654575.1_ASM2165457v1",
+    "source": "entrez"
+  },
+  "Syntrophus_aciditrophicus": {
+    "accession": "GCA_034678885.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/034/678/885/GCA_034678885.1_ASM3467888v1",
+    "source": "entrez"
+  },
+  "Desulfonema_C_magnum": {
+    "accession": "GCF_017377395.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/377/395/GCA_017377395.1_ASM1737739v1",
+    "source": "entrez"
+  },
+  "Desulfonema_limicola": {
+    "accession": "GCF_017377355.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/377/355/GCA_017377355.1_ASM1737735v1",
+    "source": "entrez"
+  },
+  "4572_123_sp963667755": {
+    "accession": "GCA_963665135.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/665/135/GCA_963665135.1_piMetPara1.Desulfobacterales_2.1",
+    "source": "entrez"
+  },
+  "Adiutrix_intracellularis": {
+    "accession": "GCA_001577715.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/577/715/GCA_001577715.1_ASM157771v1",
+    "source": "entrez"
+  },
+  "JADFWK01_sp020351915": {
+    "accession": "GCA_020351915.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/351/915/GCA_020351915.1_ASM2035191v1",
+    "source": "entrez"
+  },
+  "Anaeromyxobacter_dehalogenans": {
+    "accession": "GCF_000022145.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/022/145/GCA_000022145.1_ASM2214v1",
+    "source": "entrez"
+  },
+  "Persicimonas_caeni": {
+    "accession": "GCF_007993775.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/993/775/GCA_007993775.1_ASM799377v1",
+    "source": "entrez"
+  },
+  "G023898405_sp023898405": {
+    "accession": "GCA_023898405.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/898/405/GCA_023898405.1_ASM2389840v1",
+    "source": "entrez"
+  },
+  "Urbifossiella_limnaea": {
+    "accession": "GCF_007747215.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/007/747/215/GCA_007747215.1_ASM774721v1",
+    "source": "entrez"
+  },
+  "G020350405_sp020344865": {
+    "accession": "GCA_020344865.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/344/865/GCA_020344865.1_ASM2034486v1",
+    "source": "entrez"
+  },
+  "Anaerohalosphaera_lusitana": {
+    "accession": "GCF_002007645.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/007/645/GCA_002007645.1_ASM200764v1",
+    "source": "entrez"
+  },
+  "CATQHW01_sp963662775": {
+    "accession": "GCA_963662775.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/662/775/GCA_963662775.1_odSpoOffi2.Spirochaetia_1.1",
+    "source": "entrez"
+  },
+  "Borreliella_garinii": {
+    "accession": "GCF_032604805.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/032/604/805/GCA_032604805.1_ASM3260480v1",
+    "source": "entrez"
+  },
+  "Brachyspira_hyodysenteriae": {
+    "accession": "GCF_027586275.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/586/275/GCA_027586275.1_ASM2758627v1",
+    "source": "entrez"
+  },
+  "Luteolibacter_sp017798145": {
+    "accession": "GCA_017798145.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/798/145/GCA_017798145.1_ASM1779814v1",
+    "source": "entrez"
+  },
+  "G951813855_sp951813855": {
+    "accession": "GCA_951813855.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/951/813/855/GCA_951813855.1_odPetFici3.Verrucomicrobiae_1.1",
+    "source": "entrez"
+  },
+  "Ruficoccus_sp019603315": {
+    "accession": "GCF_019603315.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/019/603/315/GCA_019603315.1_ASM1960331v1",
+    "source": "entrez"
+  },
+  "Campylobacter_D_jejuni": {
+    "accession": "GCF_003960085.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/960/085/GCA_003960085.1_ASM396008v1",
+    "source": "entrez"
+  },
+  "Aliarcobacter_butzleri": {
+    "accession": "GCF_902500545.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/500/545/GCA_902500545.1_Ab_2811",
+    "source": "entrez"
+  },
+  "Desulfurella_acetivorans": {
+    "accession": "GCA_000517565.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/517/565/GCA_000517565.1_ASM51756v1",
+    "source": "entrez"
+  },
+  "Archaeoglobus_fulgidus": {
+    "accession": "GCA_001508815.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/508/815/GCA_001508815.1_ASM150881v1",
+    "source": "entrez"
+  },
+  "EX4572_44_sp905171695": {
+    "accession": "GCA_029932115.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/932/115/GCA_029932115.1_ASM2993211v1",
+    "source": "entrez"
+  },
+  "Haladaptatus_pallidirubidus": {
+    "accession": "GCF_020700235.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/700/235/GCA_020700235.1_ASM2070023v1",
+    "source": "entrez"
+  },
+  "Abditibacterium_sp023169805": {
+    "accession": "GCA_023169805.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/169/805/GCA_023169805.1_ASM2316980v1",
+    "source": "entrez"
+  },
+  "CP070648_sp020354555": {
+    "accession": "GCA_020354555.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/354/555/GCA_020354555.1_ASM2035455v1",
+    "source": "entrez"
+  },
+  "Capsulimonas_corticalis": {
+    "accession": "GCF_003574315.2",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/574/315/GCA_003574315.2_ASM357431v2",
+    "source": "entrez"
+  },
+  "SHUM01_sp963662495": {
+    "accession": "GCA_963662495.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/662/495/GCA_963662495.1_odGeoParv2.Terriglobia_2.1",
+    "source": "entrez"
+  },
+  "G963664115_sp963664115": {
+    "accession": "GCA_963664115.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/664/115/GCA_963664115.1_odGeoParv2.Terriglobia_6.1",
+    "source": "entrez"
+  },
+  "Sulfidibacter_corallicola": {
+    "accession": "GCF_017498545.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/017/498/545/GCA_017498545.1_ASM1749854v1",
+    "source": "entrez"
+  },
+  "Microcoleus_vaginatus_A": {
+    "accession": "GCA_000214075.2",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/214/075/GCA_000214075.2_ASM21407v1",
+    "source": "entrez"
+  },
+  "Trichocoleus_desertorum_B": {
+    "accession": "GCF_030409055.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/030/409/055/GCA_030409055.1_ASM3040905v1",
+    "source": "entrez"
+  },
+  "Chamaesiphon_minutus": {
+    "accession": "GCF_000317145.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/145/GCA_000317145.1_ASM31714v1",
+    "source": "entrez"
+  },
+  "Salinibacter_ruber": {
+    "accession": "GCF_024809285.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/024/809/285/GCA_024809285.1_ASM2480928v1",
+    "source": "entrez"
+  },
+  "Ch128a_sp013348845": {
+    "accession": "GCA_013348845.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/348/845/GCA_013348845.1_ASM1334884v1",
+    "source": "entrez"
+  },
+  "Balneola_sp001650905": {
+    "accession": "GCA_039988395.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/039/988/395/GCA_039988395.1_ASM3998839v1",
+    "source": "entrez"
+  },
+  "DYQY01_sp028706105": {
+    "accession": "GCA_028706105.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/028/706/105/GCA_028706105.1_ASM2870610v1",
+    "source": "entrez"
+  },
+  "GCA_2690645_sp038120575": {
+    "accession": "GCA_038120575.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/038/120/575/GCA_038120575.1_139571_S172.scaffolds.fasta",
+    "source": "entrez"
+  },
+  "CAIWAN01_sp903910705": {
+    "accession": "GCA_903860705.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/903/860/705/GCA_903860705.1_freshwater_MAG_---_LJ-3-4m_bin-1127",
+    "source": "entrez"
+  },
+  "Aeropyrum_camini": {
+    "accession": "GCF_000591035.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/591/035/GCA_000591035.1_ASM59103v1",
+    "source": "entrez"
+  },
+  "GCA_020344715_sp020344715": {
+    "accession": "GCA_020346725.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/346/725/GCA_020346725.1_ASM2034672v1",
+    "source": "entrez"
+  },
+  "JADGNF01_sp041447175": {
+    "accession": "GCA_041447175.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/041/447/175/GCA_041447175.1_ASM4144717v1",
+    "source": "entrez"
+  },
+  "Aciduliprofundum_boonei": {
+    "accession": "GCA_015520815.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/520/815/GCA_015520815.1_ASM1552081v1",
+    "source": "entrez"
+  },
+  "SG8_52_3_sp020350365": {
+    "accession": "GCA_020350365.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/350/365/GCA_020350365.1_ASM2035036v1",
+    "source": "entrez"
+  },
+  "GCA_020348445_sp020348445": {
+    "accession": "GCA_020348445.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/348/445/GCA_020348445.1_ASM2034844v1",
+    "source": "entrez"
+  },
+  "BMS3Bbin05_sp020351835": {
+    "accession": "GCA_020351835.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/351/835/GCA_020351835.1_ASM2035183v1",
+    "source": "entrez"
+  },
+  "Dissulfurispira_thermophila": {
+    "accession": "GCF_014701235.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/701/235/GCA_014701235.1_ASM1470123v1",
+    "source": "entrez"
+  },
+  "JADFXG01_sp004376055": {
+    "accession": "GCA_004376055.2",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/376/055/GCA_004376055.2_ASM437605v2",
+    "source": "entrez"
+  },
+  "Cloacimonas_acidaminivorans": {
+    "accession": "GCA_035415025.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/415/025/GCA_035415025.1_ASM3541502v1",
+    "source": "entrez"
+  },
+  "DAONDQ01_sp963662275": {
+    "accession": "GCA_963676305.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/676/305/GCA_963676305.1_piUroStri2.Candidatus_Cloacimonadales_1.1",
+    "source": "entrez"
+  },
+  "Desulfohalobium_retbaense": {
+    "accession": "GCF_000024325.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/024/325/GCA_000024325.1_ASM2432v1",
+    "source": "entrez"
+  },
+  "Desulfomicrobium_orale": {
+    "accession": "GCA_963550505.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/550/505/GCA_963550505.1_SRR23388438_bin.3_MetaWRAP_v1.3_MAG",
+    "source": "entrez"
+  },
+  "G020351775_sp020351775": {
+    "accession": "GCA_020351775.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/351/775/GCA_020351775.1_ASM2035177v1",
+    "source": "entrez"
+  },
+  "Gemmatimonas_aurantiaca": {
+    "accession": "GCA_003543295.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/543/295/GCA_003543295.1_ASM354329v1",
+    "source": "entrez"
+  },
+  "DATFMP01_sp035266845": {
+    "accession": "GCA_035266845.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/266/845/GCA_035266845.1_ASM3526684v1",
+    "source": "entrez"
+  },
+  "JADFZZ01_sp015232315": {
+    "accession": "GCA_015231535.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/015/231/535/GCA_015231535.1_ASM1523153v1",
+    "source": "entrez"
+  },
+  "JAVHLY01_sp031081585": {
+    "accession": "GCA_031459135.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/459/135/GCA_031459135.1_ASM3145913v1",
+    "source": "entrez"
+  },
+  "JAUQQG01_sp030550015": {
+    "accession": "GCA_031432505.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/031/432/505/GCA_031432505.1_ASM3143250v1",
+    "source": "entrez"
+  },
+  "JACQIF01_sp016432325": {
+    "accession": "GCA_016432325.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/432/325/GCA_016432325.1_ASM1643232v1",
+    "source": "entrez"
+  },
+  "JAFGFG01_sp020343635": {
+    "accession": "GCA_020343635.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/343/635/GCA_020343635.1_ASM2034363v1",
+    "source": "entrez"
+  },
+  "Calditerrivibrio_nitroreducens": {
+    "accession": "GCF_000183405.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/183/405/GCA_000183405.1_ASM18340v1",
+    "source": "entrez"
+  },
+  "Desulfurispirillum_indicum": {
+    "accession": "GCF_000177635.2",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/177/635/GCA_000177635.2_ASM17763v2",
+    "source": "entrez"
+  },
+  "Pseudothermotoga_B_elfii": {
+    "accession": "GCA_036790745.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/036/790/745/GCA_036790745.1_ASM3679074v1",
+    "source": "entrez"
+  },
+  "Thermosipho_melanesiensis": {
+    "accession": "GCF_001999645.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/999/645/GCA_001999645.1_ASM199964v1",
+    "source": "entrez"
+  },
+  "Acetomicrobium_flavidum": {
+    "accession": "GCF_035406485.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/035/406/485/GCA_035406485.1_ASM3540648v1",
+    "source": "entrez"
+  },
+  "DAIPKP01_sp963666395": {
+    "accession": "GCA_963666395.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/666/395/GCA_963666395.1_piMetSpea1.Aminiphilus_sp_1.1",
+    "source": "entrez"
+  },
+  "JAAEQD01_sp963668625": {
+    "accession": "GCA_963668625.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/668/625/GCA_963668625.1_piMetPara1.candidate_division_Zixibacteria_2.1",
+    "source": "entrez"
+  },
+  "G963664195_sp963664195": {
+    "accession": "GCA_963664195.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/664/195/GCA_963664195.1_piMetPara1.candidate_division_Zixibacteria_1.1",
+    "source": "entrez"
+  },
+  "DYTO01_sp038823825": {
+    "accession": "GCA_038858875.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/038/858/875/GCA_038858875.1_ASM3885887v1",
+    "source": "entrez"
+  },
+  "WYZ_LMO6_sp038736355": {
+    "accession": "GCA_038862525.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/038/862/525/GCA_038862525.1_ASM3886252v1",
+    "source": "entrez"
+  },
+  "JAHPYV01_sp037308085": {
+    "accession": "GCA_037308085.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/037/308/085/GCA_037308085.1_ASM3730808v1",
+    "source": "entrez"
+  },
+  "Heimdallarchaeum_endolithica": {
+    "accession": "GCA_021513715.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/021/513/715/GCA_021513715.1_ASM2151371v1",
+    "source": "entrez"
+  },
+  "Pyrohabitans_sp015521615": {
+    "accession": "GCA_027000535.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/000/535/GCA_027000535.1_ASM2700053v1",
+    "source": "entrez"
+  },
+  "Hydrothermarchaeum_profundi": {
+    "accession": "GCA_002011125.2",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/011/125/GCA_002011125.2_ASM201112v2",
+    "source": "entrez"
+  },
+  "Fibrobacter_succinogenes": {
+    "accession": "GCF_000024665.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/024/665/GCA_000024665.1_ASM2466v1",
+    "source": "entrez"
+  },
+  "UBA5070_sp016699655": {
+    "accession": "GCA_016718115.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/718/115/GCA_016718115.1_ASM1671811v1",
+    "source": "entrez"
+  },
+  "Methanothermobacter_A_sp003584625": {
+    "accession": "GCA_029776275.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/776/275/GCA_029776275.1_ASM2977627v1",
+    "source": "entrez"
+  },
+  "Methanocatella_smithii": {
+    "accession": "GCA_963606895.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/963/606/895/GCA_963606895.1_SID5415-1_cleanbin_000013_GreatApes",
+    "source": "entrez"
+  },
+  "GCA_020343615_sp020343615": {
+    "accession": "GCA_020343615.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/343/615/GCA_020343615.1_ASM2034361v1",
+    "source": "entrez"
+  },
+  "GCA_023898365_sp023898365": {
+    "accession": "GCA_023898365.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/023/898/365/GCA_023898365.1_ASM2389836v1",
+    "source": "entrez"
+  },
+  "LFW_46_sp018897155": {
+    "accession": "GCA_018897955.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/897/955/GCA_018897955.1_ASM1889795v1",
+    "source": "entrez"
+  },
+  "WAPT01_sp029258795": {
+    "accession": "GCA_029258795.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/029/258/795/GCA_029258795.1_ASM2925879v1",
+    "source": "entrez"
+  },
+  "Fermentimicrarchaeum_limneticum": {
+    "accession": "GCA_013426015.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/426/015/GCA_013426015.1_ASM1342601v1",
+    "source": "entrez"
+  },
+  "Micrarchaeum_A_acidiphilum_A": {
+    "accession": "GCA_027336525.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/336/525/GCA_027336525.1_ASM2733652v1",
+    "source": "entrez"
+  },
+  "Chlamydia_trachomatis": {
+    "accession": "GCF_000318825.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/318/825/GCA_000318825.1_ASM31882v1",
+    "source": "entrez"
+  },
+  "DAOWHK01_sp964212665": {
+    "accession": "GCA_964212665.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/212/665/GCA_964212665.1_xbBatSept2.Chlamydiales_sp._1.1",
+    "source": "entrez"
+  },
+  "Deinococcus_wulumuqiensis": {
+    "accession": "GCF_014875835.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/875/835/GCA_014875835.1_ASM1487583v1",
+    "source": "entrez"
+  },
+  "Oceanithermus_profundus": {
+    "accession": "GCF_000183745.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/183/745/GCA_000183745.1_ASM18374v1",
+    "source": "entrez"
+  },
+  "CG2_30_40_21_sp018814245": {
+    "accession": "GCA_018823165.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/823/165/GCA_018823165.1_ASM1882316v1",
+    "source": "entrez"
+  },
+  "JAHJRX01_sp018830565": {
+    "accession": "GCA_018818825.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/818/825/GCA_018818825.1_ASM1881882v1",
+    "source": "entrez"
+  },
+  "Forterrea_multitransposorum": {
+    "accession": "GCA_009392915.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/009/392/915/GCA_009392915.1_ASM939291v1",
+    "source": "entrez"
+  },
+  "GW2011_AR10_sp000830275": {
+    "accession": "GCA_013332025.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/332/025/GCA_013332025.1_ASM1333202v1",
+    "source": "entrez"
+  },
+  "JAHISK01_sp020343495": {
+    "accession": "GCA_020343495.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/343/495/GCA_020343495.1_ASM2034349v1",
+    "source": "entrez"
+  },
+  "JAHIIS01_sp020341815": {
+    "accession": "GCA_020341815.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/341/815/GCA_020341815.1_ASM2034181v1",
+    "source": "entrez"
+  },
+  "Vulcanimicrobium_alpinum": {
+    "accession": "GCF_027923555.1",
+    "ftp_path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/027/923/555/GCA_027923555.1_ASM2792355v1",
+    "source": "entrez"
+  }
+}

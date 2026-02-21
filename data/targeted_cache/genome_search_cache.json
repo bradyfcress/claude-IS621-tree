@@ -1,0 +1,1592 @@
+{
+  "Escherichia_coli": {
+    "IS621_blastp": 28.9,
+    "EF_Tu_blastp": 100.0,
+    "SecY_blastp": 100.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Providencia_A_siddallii_A": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 88.8,
+    "SecY_blastp": 83.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Pseudomonas_aeruginosa": {
+    "IS621_blastp": 29.4,
+    "EF_Tu_blastp": 84.6,
+    "SecY_blastp": 65.4,
+    "MuA_blastp": 36.5,
+    "IS911_blastp": 36.4,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": 34.8
+  },
+  "Vibrio_parahaemolyticus": {
+    "IS621_blastp": 29.8,
+    "EF_Tu_blastp": 87.7,
+    "SecY_blastp": 81.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 29.8,
+    "tblastn_IS911": null
+  },
+  "Acinetobacter_baumannii": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 85.0,
+    "SecY_blastp": 59.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Aeromonas_caviae": {
+    "IS621_blastp": 24.3,
+    "EF_Tu_blastp": 91.3,
+    "SecY_blastp": 82.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Actinobacillus_lignieresii": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 91.8,
+    "SecY_blastp": 74.7,
+    "MuA_blastp": 31.9,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Niveibacterium_microcysteis": {
+    "IS621_blastp": 29.8,
+    "EF_Tu_blastp": 81.8,
+    "SecY_blastp": 67.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Pseudidiomarina_fusca": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 93.5,
+    "SecY_blastp": 80.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Neisseria_meningitidis": {
+    "IS621_blastp": 38.4,
+    "EF_Tu_blastp": 29.3,
+    "SecY_blastp": 56.9,
+    "MuA_blastp": 35.9,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 38.4,
+    "tblastn_IS911": null
+  },
+  "Rhodanobacter_denitrificans": {
+    "IS621_blastp": 30.4,
+    "EF_Tu_blastp": 79.0,
+    "SecY_blastp": 59.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Janthinobacterium_lividum": {
+    "IS621_blastp": 27.2,
+    "EF_Tu_blastp": 79.0,
+    "SecY_blastp": 66.3,
+    "MuA_blastp": null,
+    "IS911_blastp": 33.0,
+    "hmm_is110": null,
+    "tblastn_IS621": 27.2,
+    "tblastn_IS911": 32.0
+  },
+  "Methylocaldum_szegediense": {
+    "IS621_blastp": 55.2,
+    "EF_Tu_blastp": 80.5,
+    "SecY_blastp": 66.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 55.2,
+    "tblastn_IS911": null
+  },
+  "Solimonas_A_sp003428335": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.4,
+    "SecY_blastp": 64.0,
+    "MuA_blastp": null,
+    "IS911_blastp": 34.5,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": 32.7
+  },
+  "Methylomonas_koyamae": {
+    "IS621_blastp": 50.4,
+    "EF_Tu_blastp": 79.2,
+    "SecY_blastp": 65.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 50.4,
+    "tblastn_IS911": null
+  },
+  "Staphylococcus_aureus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.1,
+    "SecY_blastp": 41.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Enterococcus_faecalis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 77.7,
+    "SecY_blastp": 40.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Lactobacillus_crispatus": {
+    "IS621_blastp": 32.9,
+    "EF_Tu_blastp": 70.7,
+    "SecY_blastp": 40.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 32.9,
+    "tblastn_IS911": null
+  },
+  "Negativicoccus_massiliensis_A": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 83.0,
+    "SecY_blastp": 46.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Rossellomorea_marisflavi": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 77.2,
+    "SecY_blastp": 43.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Symbiobacterium_thermophilum": {
+    "IS621_blastp": 34.9,
+    "EF_Tu_blastp": 75.6,
+    "SecY_blastp": 44.8,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 34.9,
+    "tblastn_IS911": null
+  },
+  "Terrisporobacter_petrolearius": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 34.1,
+    "SecY_blastp": 39.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Abyssicoccus_albus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.8,
+    "SecY_blastp": 41.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Hungateiclostridium_thermocellum": {
+    "IS621_blastp": 26.2,
+    "EF_Tu_blastp": 72.2,
+    "SecY_blastp": 41.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acetohalobium_arabaticum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.1,
+    "SecY_blastp": 45.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Phytoplasma_australasiaticum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 53.7,
+    "SecY_blastp": 26.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "G963665925_sp963678925": {
+    "IS621_blastp": 26.0,
+    "EF_Tu_blastp": 75.7,
+    "SecY_blastp": 43.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 28.8,
+    "tblastn_IS911": null
+  },
+  "Phascolarctobacterium_faecium": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.4,
+    "SecY_blastp": 45.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acidilutibacter_cellobiosedens": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.7,
+    "SecY_blastp": 42.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acutalibacter_muris": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.4,
+    "SecY_blastp": 39.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Flavobacterium_psychrophilum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.0,
+    "SecY_blastp": 36.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Rhodocytophaga_rosea": {
+    "IS621_blastp": 27.0,
+    "EF_Tu_blastp": 70.3,
+    "SecY_blastp": 40.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 27.0,
+    "tblastn_IS911": null
+  },
+  "Cardinium_sp007559345": {
+    "IS621_blastp": 28.3,
+    "EF_Tu_blastp": 30.9,
+    "SecY_blastp": 35.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 28.2,
+    "tblastn_IS911": null
+  },
+  "Azobacteroides_pseudotrichonymphae": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.0,
+    "SecY_blastp": 40.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Aurantibacillus_circumpalustris": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.1,
+    "SecY_blastp": 38.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Phocaeicola_vulgatus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.5,
+    "SecY_blastp": 39.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Barnesiella_merdigallinarum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.8,
+    "SecY_blastp": 39.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Bernardetia_sp020630575": {
+    "IS621_blastp": 24.6,
+    "EF_Tu_blastp": 73.9,
+    "SecY_blastp": 41.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 24.6,
+    "tblastn_IS911": null
+  },
+  "Promineifilum_breve": {
+    "IS621_blastp": 38.9,
+    "EF_Tu_blastp": 66.9,
+    "SecY_blastp": 37.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 38.9,
+    "tblastn_IS911": null
+  },
+  "Brevefilum_fermentans": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 67.7,
+    "SecY_blastp": 33.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Bin16_sp958295525": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.4,
+    "SecY_blastp": 39.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAPOXK01_sp963663895": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.8,
+    "SecY_blastp": 42.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAAFGM01_sp025998955": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 68.3,
+    "SecY_blastp": 37.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GCA_958296115_sp958296115": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.6,
+    "SecY_blastp": 37.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "CATOSD01_sp963667445": {
+    "IS621_blastp": 30.9,
+    "EF_Tu_blastp": 70.9,
+    "SecY_blastp": 39.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 30.9,
+    "tblastn_IS911": null
+  },
+  "CATQGZ01_sp958295685": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.1,
+    "SecY_blastp": 38.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Streptomyces_albidoflavus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 74.2,
+    "SecY_blastp": 44.4,
+    "MuA_blastp": null,
+    "IS911_blastp": 74.1,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": 74.1
+  },
+  "Bifidobacterium_longum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 67.0,
+    "SecY_blastp": 43.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Microbacterium_sp002456035": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.0,
+    "SecY_blastp": 42.0,
+    "MuA_blastp": null,
+    "IS911_blastp": 33.3,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Corynebacterium_diphtheriae": {
+    "IS621_blastp": 33.6,
+    "EF_Tu_blastp": 72.5,
+    "SecY_blastp": 44.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 34.6,
+    "tblastn_IS911": null
+  },
+  "JACDBR01_sp021496505": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.6,
+    "SecY_blastp": 46.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acidimicrobium_ferrooxidans": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.9,
+    "SecY_blastp": 38.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acidothermus_cellulolyticus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.3,
+    "SecY_blastp": 45.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Trueperella_pyogenes": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.6,
+    "SecY_blastp": 42.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "MFHE01_sp016432405": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.6,
+    "SecY_blastp": 41.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GCA_016699145_sp016699145": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.9,
+    "SecY_blastp": 38.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GCA_016432625_sp016432625": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.2,
+    "SecY_blastp": 36.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "HK_STAS_PATE_2_sp023898425": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 66.7,
+    "SecY_blastp": 41.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "2011_GWC2_44_17_sp001029695": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 29.6,
+    "SecY_blastp": 35.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Aalborg_AAW_1_sp001007975": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 66.2,
+    "SecY_blastp": 31.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "BOKC01_sp016860785": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.0,
+    "SecY_blastp": 41.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GWC1_49_16_sp001029675": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "Dissulfurimicrobium_hydrothermale": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.9,
+    "SecY_blastp": 53.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 63.7,
+    "tblastn_IS911": null
+  },
+  "Desulfoluna_limicola": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.3,
+    "SecY_blastp": 54.2,
+    "MuA_blastp": 39.6,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Syntrophus_aciditrophicus": {
+    "IS621_blastp": 44.0,
+    "EF_Tu_blastp": 74.5,
+    "SecY_blastp": 54.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 41.7,
+    "tblastn_IS911": null
+  },
+  "Desulfonema_C_magnum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.8,
+    "SecY_blastp": 55.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Desulfonema_limicola": {
+    "IS621_blastp": 29.8,
+    "EF_Tu_blastp": 76.8,
+    "SecY_blastp": 59.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "4572_123_sp963667755": {
+    "IS621_blastp": 33.3,
+    "EF_Tu_blastp": 77.0,
+    "SecY_blastp": 53.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Adiutrix_intracellularis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "JADFWK01_sp020351915": {
+    "IS621_blastp": 24.8,
+    "EF_Tu_blastp": 74.1,
+    "SecY_blastp": 54.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Anaeromyxobacter_dehalogenans": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 78.0,
+    "SecY_blastp": 52.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Persicimonas_caeni": {
+    "IS621_blastp": 28.0,
+    "EF_Tu_blastp": 74.0,
+    "SecY_blastp": 49.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "G023898405_sp023898405": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.5,
+    "SecY_blastp": 46.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Urbifossiella_limnaea": {
+    "IS621_blastp": 38.3,
+    "EF_Tu_blastp": 58.8,
+    "SecY_blastp": 40.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 38.3,
+    "tblastn_IS911": null
+  },
+  "G020350405_sp020344865": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 68.7,
+    "SecY_blastp": 37.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Anaerohalosphaera_lusitana": {
+    "IS621_blastp": 31.0,
+    "EF_Tu_blastp": 70.9,
+    "SecY_blastp": 38.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 30.0,
+    "tblastn_IS911": null
+  },
+  "CATQHW01_sp963662775": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.1,
+    "SecY_blastp": 41.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Borreliella_garinii": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 64.4,
+    "SecY_blastp": 36.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Brachyspira_hyodysenteriae": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 62.3,
+    "SecY_blastp": 46.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Luteolibacter_sp017798145": {
+    "IS621_blastp": 26.1,
+    "EF_Tu_blastp": 74.0,
+    "SecY_blastp": 39.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 51.2,
+    "tblastn_IS911": null
+  },
+  "G951813855_sp951813855": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 66.1,
+    "SecY_blastp": 41.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Ruficoccus_sp019603315": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 66.8,
+    "SecY_blastp": 42.8,
+    "MuA_blastp": null,
+    "IS911_blastp": 29.8,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": 29.2
+  },
+  "Campylobacter_D_jejuni": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.1,
+    "SecY_blastp": 41.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Aliarcobacter_butzleri": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.3,
+    "SecY_blastp": 40.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Desulfurella_acetivorans": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.9,
+    "SecY_blastp": 52.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Archaeoglobus_fulgidus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 23.3
+  },
+  "EX4572_44_sp905171695": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.6
+  },
+  "Haladaptatus_pallidirubidus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 36.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 21.3
+  },
+  "Abditibacterium_sp023169805": {
+    "IS621_blastp": 42.1,
+    "EF_Tu_blastp": 74.9,
+    "SecY_blastp": 41.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 44.3,
+    "tblastn_IS911": null
+  },
+  "CP070648_sp020354555": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 74.3,
+    "SecY_blastp": 45.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Capsulimonas_corticalis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.8,
+    "SecY_blastp": 42.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "SHUM01_sp963662495": {
+    "IS621_blastp": 23.7,
+    "EF_Tu_blastp": 72.6,
+    "SecY_blastp": 48.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "G963664115_sp963664115": {
+    "IS621_blastp": 38.3,
+    "EF_Tu_blastp": 76.3,
+    "SecY_blastp": 52.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 38.3,
+    "tblastn_IS911": null
+  },
+  "Sulfidibacter_corallicola": {
+    "IS621_blastp": 33.8,
+    "EF_Tu_blastp": 77.4,
+    "SecY_blastp": 39.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 33.7,
+    "tblastn_IS911": null
+  },
+  "Microcoleus_vaginatus_A": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 67.9,
+    "SecY_blastp": 43.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Trichocoleus_desertorum_B": {
+    "IS621_blastp": 32.4,
+    "EF_Tu_blastp": 70.1,
+    "SecY_blastp": 44.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Chamaesiphon_minutus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 68.9,
+    "SecY_blastp": 45.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Salinibacter_ruber": {
+    "IS621_blastp": 40.0,
+    "EF_Tu_blastp": 71.3,
+    "SecY_blastp": 43.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 40.0,
+    "tblastn_IS911": null
+  },
+  "Ch128a_sp013348845": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 68.4,
+    "SecY_blastp": 42.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Balneola_sp001650905": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.6,
+    "SecY_blastp": 41.8,
+    "MuA_blastp": 36.0,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DYQY01_sp028706105": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.4,
+    "SecY_blastp": 44.8,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GCA_2690645_sp038120575": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 78.0,
+    "SecY_blastp": 40.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "CAIWAN01_sp903910705": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 74.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "Aeropyrum_camini": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.7
+  },
+  "GCA_020344715_sp020344715": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 34.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.1
+  },
+  "JADGNF01_sp041447175": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 30.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 20.1
+  },
+  "Aciduliprofundum_boonei": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 26.1
+  },
+  "SG8_52_3_sp020350365": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.4
+  },
+  "GCA_020348445_sp020348445": {
+    "IS621_blastp": 29.1,
+    "EF_Tu_blastp": 31.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 29.1,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.5
+  },
+  "BMS3Bbin05_sp020351835": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.9,
+    "SecY_blastp": 53.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Dissulfurispira_thermophila": {
+    "IS621_blastp": 26.0,
+    "EF_Tu_blastp": 77.1,
+    "SecY_blastp": 55.0,
+    "MuA_blastp": 51.1,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 30.5,
+    "tblastn_IS911": null
+  },
+  "JADFXG01_sp004376055": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.7,
+    "SecY_blastp": 54.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Cloacimonas_acidaminivorans": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.8,
+    "SecY_blastp": 48.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DAONDQ01_sp963662275": {
+    "IS621_blastp": 25.7,
+    "EF_Tu_blastp": 72.8,
+    "SecY_blastp": 49.5,
+    "MuA_blastp": 34.7,
+    "IS911_blastp": 24.3,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Desulfohalobium_retbaense": {
+    "IS621_blastp": 26.1,
+    "EF_Tu_blastp": 73.6,
+    "SecY_blastp": 52.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 26.1,
+    "tblastn_IS911": null
+  },
+  "Desulfomicrobium_orale": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.9,
+    "SecY_blastp": 53.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "G020351775_sp020351775": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 31.8,
+    "SecY_blastp": 44.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Gemmatimonas_aurantiaca": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.2,
+    "SecY_blastp": 42.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DATFMP01_sp035266845": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 75.8,
+    "SecY_blastp": 52.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JADFZZ01_sp015232315": {
+    "IS621_blastp": 29.5,
+    "EF_Tu_blastp": 71.0,
+    "SecY_blastp": 50.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 29.5,
+    "tblastn_IS911": null
+  },
+  "JAVHLY01_sp031081585": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.4,
+    "SecY_blastp": 45.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAUQQG01_sp030550015": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.9,
+    "SecY_blastp": 44.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JACQIF01_sp016432325": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 20.3
+  },
+  "JAFGFG01_sp020343635": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 30.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 26.9
+  },
+  "Calditerrivibrio_nitroreducens": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 74.7,
+    "SecY_blastp": 48.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Desulfurispirillum_indicum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 78.7,
+    "SecY_blastp": 47.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Pseudothermotoga_B_elfii": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.3,
+    "SecY_blastp": 43.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Thermosipho_melanesiensis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.2,
+    "SecY_blastp": 40.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Acetomicrobium_flavidum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.1,
+    "SecY_blastp": 48.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DAIPKP01_sp963666395": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.9,
+    "SecY_blastp": 47.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAAEQD01_sp963668625": {
+    "IS621_blastp": 25.3,
+    "EF_Tu_blastp": 72.8,
+    "SecY_blastp": 47.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 25.2,
+    "tblastn_IS911": null
+  },
+  "G963664195_sp963664195": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.4,
+    "SecY_blastp": 45.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DYTO01_sp038823825": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 35.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.9
+  },
+  "WYZ_LMO6_sp038736355": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 21.6
+  },
+  "JAHPYV01_sp037308085": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 30.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 21.0
+  },
+  "Heimdallarchaeum_endolithica": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 31.5,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "Pyrohabitans_sp015521615": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 23.8
+  },
+  "Hydrothermarchaeum_profundi": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 34.0,
+    "SecY_blastp": 24.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Fibrobacter_succinogenes": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 72.0,
+    "SecY_blastp": 44.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "UBA5070_sp016699655": {
+    "IS621_blastp": 30.1,
+    "EF_Tu_blastp": 76.5,
+    "SecY_blastp": 45.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 30.1,
+    "tblastn_IS911": null
+  },
+  "Methanothermobacter_A_sp003584625": {
+    "IS621_blastp": 31.6,
+    "EF_Tu_blastp": 35.7,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 31.6,
+    "tblastn_IS911": null,
+    "SecY_blastp": 23.5
+  },
+  "Methanocatella_smithii": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 34.8,
+    "SecY_blastp": 24.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GCA_020343615_sp020343615": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.1
+  },
+  "GCA_023898365_sp023898365": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 23.1
+  },
+  "LFW_46_sp018897155": {
+    "IS621_blastp": 28.0,
+    "EF_Tu_blastp": 32.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 28.0,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "WAPT01_sp029258795": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 70.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 26.3
+  },
+  "Fermentimicrarchaeum_limneticum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 32.9,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 22.6
+  },
+  "Micrarchaeum_A_acidiphilum_A": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 40.6,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": null
+  },
+  "Chlamydia_trachomatis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 67.3,
+    "SecY_blastp": 40.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "DAOWHK01_sp964212665": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.9,
+    "SecY_blastp": 39.8,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Deinococcus_wulumuqiensis": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.5,
+    "SecY_blastp": 37.2,
+    "MuA_blastp": null,
+    "IS911_blastp": 34.7,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": 34.7
+  },
+  "Oceanithermus_profundus": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 73.3,
+    "SecY_blastp": 40.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "CG2_30_40_21_sp018814245": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 69.8,
+    "SecY_blastp": 48.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAHJRX01_sp018830565": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 76.3,
+    "SecY_blastp": 52.0,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Forterrea_multitransposorum": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 31.1,
+    "SecY_blastp": 24.4,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "GW2011_AR10_sp000830275": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 33.2,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null,
+    "SecY_blastp": 30.9
+  },
+  "JAHISK01_sp020343495": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 67.5,
+    "SecY_blastp": 48.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "JAHIIS01_sp020341815": {
+    "IS621_blastp": null,
+    "EF_Tu_blastp": 71.1,
+    "SecY_blastp": 50.3,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": null,
+    "tblastn_IS911": null
+  },
+  "Vulcanimicrobium_alpinum": {
+    "IS621_blastp": 37.3,
+    "EF_Tu_blastp": 75.7,
+    "SecY_blastp": 43.1,
+    "MuA_blastp": null,
+    "IS911_blastp": null,
+    "hmm_is110": null,
+    "tblastn_IS621": 37.3,
+    "tblastn_IS911": null
+  }
+}
